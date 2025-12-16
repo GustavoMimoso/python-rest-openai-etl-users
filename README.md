@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Flask](https://img.shields.io/badge/Flask-2.0+-green.svg)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-orange.svg)
-![Status](https://img.shields.io/badge/Status-Em%20finalizado-green.svg)
+![Status](https://img.shields.io/badge/Status-%20finalizado-green.svg)
 
 ## 📋 Descrição do Projeto
 
@@ -462,4 +462,5 @@ Abra uma **issue** no repositório ou entre em contato!
 ---
 
 **Última atualização:** Dezembro de 2025 | **Status:** Pronto para uso 🚀
+
 
